@@ -23,11 +23,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
 </div>
 
 ###
